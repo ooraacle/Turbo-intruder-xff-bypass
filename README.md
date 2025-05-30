@@ -34,7 +34,7 @@ This tool is for educational and authorized testing only. Do **not** use it agai
 
 ## 📖 Blog Reference
 
-Full walkthrough and explanation in this blog: [your-hackernoon-link-here]
+Full walkthrough and explanation in this blog: https://hackernoon.com/breaking-into-a-server-using-a-hello-world-page-and-a-fake-jpeg
 
 ---
 
